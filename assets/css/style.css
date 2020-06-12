@@ -30,6 +30,54 @@ h1, h2, h3, h4, h5, h6 {
 # Back to top button
 --------------------------------------------------------------*/
 
+.tg  {
+border-collapse:collapse;
+border-color:#bbb;
+border-spacing:0;
+}
+
+.tg td{
+background-color:#ABDD9D;
+border-color:#2D2D2D;
+border-style:solid;
+border-width:1px;
+color:#000000;
+font-family:Segoe UI, sans-serif;
+font-size:14px;
+overflow:hidden;
+padding:10px 5px;
+word-break:normal;
+}
+
+.tg th{
+background-color:#9DE0AD;
+border-color:#bbb;
+border-style:solid;
+border-width:1px;color:#000000;
+font-family:Segoe UI, sans-serif;
+font-size:14px;
+font-weight:normal;
+overflow:hidden;
+padding:10px 5px;
+word-break:normal;
+}
+
+.tg .tg-t1np{
+background-color:#5C8E65;
+border-color:#5C8E65;
+border-style:solid;
+border-width:1px;color:#FFFFFF;
+font-family:"Segoe UI", cursive, sans-serif !important;
+;text-align:center;
+vertical-align:top
+}
+
+.tg .tg-t0np{
+font-family:"Segoe UI", cursive, sans-serif !important;
+;text-align:left;
+vertical-align:top
+}
+
 .slide{
   position: absolute;
   left: 0px;
